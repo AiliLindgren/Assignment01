@@ -5,6 +5,14 @@ head, body {
     background: linear-gradient(to top, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+h1 {
+    font-size: 65px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
 .band-name-links {
     font-size: 30px;
 }
